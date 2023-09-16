@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+.header-heading{
+    margin-left: 100px;
+    margin-top: -90px;
+}
+img{
+    margin-top: 20px;
+}
+p{
+    margin-left: 900px;
+    margin-top: -300px;
+    font-size: x-large;
+}
+.location{
+    text-align: center;
+    margin-top: 80px;
+}
+.map{
+    margin-left: 30px;
+}
+.head{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.box{
+    margin-left: 50px;
+
+}
